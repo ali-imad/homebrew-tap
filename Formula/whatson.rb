@@ -1,8 +1,8 @@
 class Whatson < Formula
   desc "Check what's currently playing on the Criterion Channel"
   homepage "https://github.com/ali-imad/whatson"
-  url "https://github.com/ali-imad/whatson/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "d4b41183fbd593ec9a345de47e1813f569e1063b6cf5d04416a997c437ffaa26"
+  url "https://github.com/ali-imad/whatson/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "ec5d1c29c7c99a9a8d8e831e8ea4cd45c4a1bb7e9a8e32a9db9ae7552d23acce"
   license "MIT"
 
   def install
